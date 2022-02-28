@@ -13,6 +13,13 @@
 
 - Generate readom shark tank India Meme
 
+## 📚️ How to use
+
+- Download or clone the code
+- Browser => Extension => Open developer option => load unpacked => select download folder
+- Enjoy
+
+
 
 ## ‎‍💻 Authors
 
